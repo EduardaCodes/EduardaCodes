@@ -1,9 +1,12 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
