@@ -3,7 +3,7 @@
 />
 <div align="left">
   <h3 align="left"> 👩🏻‍💻| About Me </h3> 
-  <p align="left"> Oii!! Sou estudante do 4º semestre de Ciência da Computação. <br>
+  <p align="left"> Oii!! Sou estudante do 5º semestre de Ciência da Computação. <br>
     Atualmente, estou me aprofundando em Python para Ciência de Dados e C, além de começar minha jornada no mundo dos Bancos de Dados. <br>
   </p>
   </div>
